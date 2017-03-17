@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1c8809ca-c561-43a1-8024-63bdaf6e5daa" name="mthoma52" url="http://mthoma52.com">
+        <fileTransfer host="mthoma52.com" port="22" privateKey="C:\Users\ManuMathew\Documents\mthoma52_ppk.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

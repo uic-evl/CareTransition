@@ -1,0 +1,14 @@
+{
+  "name": "CareTransition",
+  "version": "1.0.0",
+  "main": "CareTransition.js",
+  "devDependencies": {
+    "eslint": "latest"
+  },
+  "scripts": {
+    "lint": "eslint -c eslintrc CareTransition.js"
+  },
+  "author": "Manu Mathew Thomas <mthoma52@uic.edu>",
+  "license": "BSD-2-Clause",
+  "description": "SAGE2 application CareTransition"
+}

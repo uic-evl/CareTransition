@@ -1,0 +1,31 @@
+{
+	"main_script": "CareTransition.js",
+	"icon": "CareTransition.png",
+	"width": 960,
+	"height": 540,
+	"resize": "fixed",
+	"animation": false,
+	"dependencies": [
+		"CareTransitionUI.js",
+		"main.css",
+		"radar-chart.min.css",
+		"Global.js",
+		"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+		"https://cdnjs.cloudflare.com/ajax/libs/vis/4.18.1/vis.min.js",
+		"https://cdnjs.cloudflare.com/ajax/libs/vis/4.18.1/vis.min.css",
+		"https://cdnjs.cloudflare.com/ajax/libs/cubism/1.6.0/cubism.v1.min.js",
+		"radar-chart.js",
+		"d3-timeline.js",
+		"gantt-chart-d3.js",
+		"CareTransitionController.js"
+	],
+	"load": {
+		"value": 4
+	},
+	"title": "CareTransition",
+	"version": "1.0.0",
+	"description": "SAGE2 application CareTransition",
+	"keywords": [ "sage2", "CareTransition" ],
+	"author": "Manu Mathew Thomas <mthoma52@uic.edu>",
+	"license": "SAGE2-Software-License"
+}
